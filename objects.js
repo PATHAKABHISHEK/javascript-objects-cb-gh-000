@@ -6,7 +6,7 @@ var playlist = {"Arijit singh" : "Khamosiyan",
 
 
 var updatePlaylist = (obj,name,song) =>{
-  obj.name = song
+  obj[name] = song
   return obj
 
 }
