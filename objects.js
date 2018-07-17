@@ -1,6 +1,6 @@
 var playlist = {"Arijit singh" : "Khamosiyan",
-            "Baadshah" : "Mercy",
-            "Honey Singh" : "Yo Yo "
+                  "Baadshah" : "Mercy",
+                  "Honey Singh" : "Yo Yo "
   
             }
 
